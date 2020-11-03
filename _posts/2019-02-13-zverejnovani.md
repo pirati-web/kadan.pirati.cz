@@ -45,7 +45,7 @@ Když pominu časové prodlevy, grafickou formu meilových odpovědí, různá n
 *další v kompetenci místostarosty (dosud čekám na upřesňující odpověď - zaslání či link na zprávu o vyhodnocení sociálního bydlení v Prunéřově) 
 a odpovědi pana tajemníka ve stylu "nemohu se věnovat jen vašim dotazům, ale musím zajišťovat i ostatní agendu" jen dokládají fakt, že **město nemá systematický proces poskytování informací pro zastupitele**.*
 
-**Systém zveřejňování [informací pro občany](http://www.mesto-kadan.cz/obcan/155/povinne-zverejnovane-informace)** zase vypadá jako nudný popis formalit, s odkazem pouze na ceník. 
+**Systém zveřejňování [informací pro občany](https://www.mesto-kadan.cz/cs/mestsky-urad/povinne-zverejnovane-informace-3.html)** zase vypadá jako nudný popis formalit, s odkazem pouze na ceník. 
 O inovaci webu se mluví už roky a zkuste si například vyhledat zprávu o kultuře.
 Až to vzdáte - přímo vyžádaný link [zde](http://www.mesto-kadan.eu/sekce/16/dokumenty-ke-stazeni).
 
