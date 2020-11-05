@@ -17,9 +17,9 @@ profiles:
   flickr:
 ---
 
-Jiří Kopica, nar 1978, člen památkové komise, BPP  
+Miroslav Pastorek, nar 1957, člen kontrolního výboru, příznivec KS Ústecký kraj  
 
-Narozen v Žatci v roce 1957. Žije v Kadani.
+Narozen v Žatci, žije v Kadani.
 Po ukončení základní vojenské služby nástup k VB. 
 Vystudoval VŠ v oboru právo, udělen akademický titul JUDr. Od roku 1997 jako OSVČ.
 Od roku 2017 v aktivním starobním důchodu. 
