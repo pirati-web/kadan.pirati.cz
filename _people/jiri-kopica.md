@@ -1,6 +1,6 @@
 ---
 uid: jiri.kopica
-name: Ing. Jiří Kopica  	# běžně používáné jméno
+name: Jiří Kopica  	# běžně používáné jméno
 titles:
   before:
   after:
