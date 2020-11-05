@@ -19,7 +19,7 @@ profiles:
 
 Miroslav Pastorek, nar 1957, člen kontrolního výboru, příznivec KS Ústecký kraj  
 
-Narozen v Žatci, žije v Kadani.
-Po ukončení základní vojenské služby nástup k VB. 
-Vystudoval VŠ v oboru právo, udělen akademický titul JUDr. Od roku 1997 jako OSVČ.
-Od roku 2017 v aktivním starobním důchodu. 
+Narodil jsem se v Žatci, žiju trvale v Kadani.
+Po ukončení základní vojenské služby jsem nastoupil k VB. 
+Vystudoval jsem VŠ v oboru právo, s akademickým titulem JUDr. Od roku 1997 jsem působil jako OSVČ.
+Od roku 2017 jsem v aktivním starobním důchodu. 
