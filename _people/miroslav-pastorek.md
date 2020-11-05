@@ -2,7 +2,7 @@
 uid: miroslav.pastorek
 name: Miroslav Pastorek  	# běžně používáné jméno
 titles:
-  before:
+  before: JUDr.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
