@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
-img: people/pastorek.jpg   # 165 x 220
+img: people/pastorekmiroslav.jpg   # 165 x 220
 description: přiznivec KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail:
 mob:	
