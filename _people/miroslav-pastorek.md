@@ -1,6 +1,6 @@
 ---
 uid: miroslav.pastorek
-name: JUDr. Miroslav Pastorek  	# běžně používáné jméno
+name: Miroslav Pastorek  	# běžně používáné jméno
 titles:
   before:
   after:
