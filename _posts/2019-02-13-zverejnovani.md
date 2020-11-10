@@ -49,7 +49,7 @@ a odpovědi pana tajemníka ve stylu "nemohu se věnovat jen vašim dotazům, al
 O inovaci webu se mluví už roky a zkuste si například vyhledat zprávu o kultuře.
 Až to vzdáte - požádáte si holt o přímý odkaz starostu zde](http://www.mesto-kadan.eu/sekce/16/dokumenty-ke-stazeni). 
 
-Edit listopad 2020 - okdaz bohužel už zase nefunguje a na novém webu opět k nenalezení :(
+**Edit listopad 2020** - odkaz bohužel už zase nefunguje a na novém webu opět k nenalezení :(
 
 
 A když se ptáte, tak jste "podezíravý" a "myslíte si, že tam snad kradou" a "máte to dělat jinak - selským rozumem" :).
