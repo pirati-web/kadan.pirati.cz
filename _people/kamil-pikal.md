@@ -17,7 +17,7 @@ profiles:
   flickr: 
 ---
 
-Kamil Pikal, nar. 1989, Piráti
+Kamil Pikal, nar. 1984, Piráti
 
 diplomat
 
