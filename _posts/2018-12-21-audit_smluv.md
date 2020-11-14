@@ -24,16 +24,16 @@ Po předání informací vedení města došlo k urychlené kontrole a část ne
 
 Podle nás došlo k **systémovému selhání vedení úřadu** a měly by být vyvozeny opatření v nejvyšších místech (tajemník, interní auditorka). 
 
-Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázorového spektra kontrolních orgánů a především nabádáme k významně větší otevřenosti a participaci.
+**Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázorového spektra kontrolních orgánů a především nabádáme k významně větší otevřenosti a participaci.**
 
-Podrobnosti zveřejníme podle dojednání výsledného řešení ze strany města.
+Tisková zpráva k tématu [zde](https://drive.google.com/file/d/1fziUBWenm9A4sraBOmjfjc8duky9DEut/view?usp=sharing).
 
 **Únor 2019 - Aktuální odpověď** pana tajemníka: "Náprava v registru smluv město nic nestála, opravy byly pod dohledem auditorky města a pracovníci, kteří mají v pracovní náplni registrace smluv vše opravili dle metodiky. Připravované školení je zahrnuto do ročního plánu školení. 
 Náklady ostatních organizací opravdu nevím, ani mi to nepřísluší." 
 
 *Tedy se opět musíme doptat jednatelů společností (přestože jde o společnosti vlastněné 100% městem a valná hromada = Rada města a Dozorčí rada = většinou také členové Rady města a dle organizačního řádu města má tajemník zajišťovat vyhotovení a evidenci zápisů RM)?*
 
-Bohužel se k nám doneslo, že byly vynaloženy tisícové náklady na právní služby a některým úředníkům bylo výrazně kráceno osobní ohodnocení, přestože správný postup by měl být vyčíslení škodní události a umožnění plnění z pojistek odpovědnosti.
+Bohužel nám zdroje otvrdily, že byly vynaloženy tisícové náklady na právní služby a některým úředníkům bylo výrazně kráceno osobní ohodnocení, přestože správný postup by měl být vyčíslení škodní události a umožnění plnění z pojistek odpovědnosti.
 
 Nehledě na to, že jsme při jednáních důrazně nabádali k řešení příčin selhání systému a výslovně žádali k zamezení postihů zaměstnanců.
 **Rozhodnutí bylo v kompetenci vedení.**  
