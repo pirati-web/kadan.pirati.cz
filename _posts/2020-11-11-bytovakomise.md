@@ -5,7 +5,7 @@ title: Bytová komise online
 date: 2020-11-11
 author: Miloslava Karfilátová
 authorId: miloslava.karfilatova
-image: posts/bytovakomise.png
+image: posts/bytovakomise.PNG
 tags:
   - Bytová komise
   - Město Kadaň
