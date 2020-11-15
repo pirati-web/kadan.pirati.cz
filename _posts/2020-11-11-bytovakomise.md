@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# Chybí pravidla
+# Chybí kritéria
 
 V současné době z epidemiologických důvodů je činnost komisí rady města zastavena nebo probíhají online. 
 
