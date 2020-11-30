@@ -38,7 +38,7 @@ Nekritizujeme městský úřad za každou cenu. Máme ale pocit, že by se ke v�
 
 Věříme, že se celá záležitost vysvětlí a do budoucna ubude naprosto zbytečných obstrukcí a zmatků v umisťování politické reklamy v Kadani. 
 Tato reklama je jednorázová a chvilková, není tedy reklamním smogem v pravém slova smyslu. 
-Tato reklama je důležitá, reprezentuje možnost oslovit obyvatele města konkrétním plánem a sdělením, které si k nim jinak cestu nenajde. 
+Tato reklama je důležitá, reprezentuje možnost oslovit obyvatele města konkrétním plánem a sdělením, které si k některým jinak cestu nenajde. 
 Taková reklama je právem každého politického subjektu, který reprezentuje určité procento voličů a neměla by být podloudně usurpována jediným vládcem.
 
 
