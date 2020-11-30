@@ -18,7 +18,7 @@ tags:
 
 # Trampoty s reklamou v Kadani, aneb Někteří jsou si rovnější
 
-Kadaň je známá tím, že se všemi dostupnými snaží zabránit jakékoliv reklamě ve městě. 
+Kadaň je známá tím, že se všemi dostupnými prostředky snaží zabránit jakékoliv reklamě ve městě. 
 To by snad bylo v pořádku vzhledem k tomu, jak nás esteticky obtěžuje všudypřítomný reklamní smog. V tomto ohledu jsme s vedením města zajedno. 
 Co však vzbuzuje otázky je **dvojí metr kadaňského vedení během politického klání v nedávných volbách** do zastupitelstva Ústeckého kraje. Krátkodobá reklama ve formě záboru nějakého prostranství pro volební konstrukci je ve městě téměř nedosažitelná.
 
