@@ -33,7 +33,7 @@ A k tomu jim dopomáhají soukromé společnosti, které s městem v pracovně e
 ODS tak dává všem najevo, že pravidla, která si ve městě nastaví, platí a budou vynucována padni komu padni, ovšem jediní, kterých se to netýká, jsou oni sami.
 
 Jak si můžete všimnout na obrázcích výše, **byl učiněn zábor veřejného prostranství pro kontejner** v Chomutovské ulici. Prostor si zabrala **firma HP Stav – Jan Perout s. r. o.**
-Zmíněný povolený zábor veřejného prostranství je vyžádán na reklamu, ovšem v Rozhodnutí MÚ o povolení bylo vydáno na „kontejner“. Tento kontejner je až příliš podobný konstrukci s plachtou, na níž je politická reklama, ostatním politickým subjektům ve městě zapovězená záležitost.
+Zmíněný povolený zábor veřejného prostranství je vyžádán na reklamu, ovšem v Rozhodnutí MÚ o povolení bylo vydáno na „kontejner“. **Tento kontejner je až příliš podobný konstrukci s plachtou**, na níž je politická reklama, ostatním politickým subjektům ve městě zapovězená záležitost.
 Nekritizujeme městský úřad za každou cenu. Máme ale pocit, že by se ke všem mělo přistupovat stejně, ať už na sobě mají, nebo nemají **starostovský řetěz a za sebou firmu, která umisťuje kontejnery ve tvaru volebních plachet.**
 
 Věříme, že se celá záležitost vysvětlí a do budoucna ubude naprosto zbytečných obstrukcí a zmatků v umisťování politické reklamy v Kadani. 
