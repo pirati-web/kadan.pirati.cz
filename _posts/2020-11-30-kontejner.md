@@ -42,3 +42,4 @@ Tato reklama je důležitá, reprezentuje možnost oslovit obyvatele města konk
 Taková reklama je právem každého politického subjektu, který reprezentuje určité procento voličů a neměla by být podloudně usurpována jediným vládcem.
 
 
+
