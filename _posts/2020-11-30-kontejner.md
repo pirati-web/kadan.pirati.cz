@@ -35,6 +35,7 @@ stejně tak se nezabýváme vhodností umístění poutače de facto v kruhovém
 
 Zajímavý je na té situaci především fakt, že jsme si v Kadani rovni, ovšem někteří jsou si rovnější.
 A k tomu jim dopomáhají soukromé společnosti, které s městem v pracovně ekonomické rovině interagují. 
+
 ODS tak dává všem najevo, že pravidla, která si ve městě nastaví, platí a budou vynucována padni komu padni, ovšem jediní, kterých se to netýká, jsou oni sami.
 
 * Rozhodnutí o vyměření místního poplatku za kontejner [zde](https://drive.google.com/file/d/1hwtuBPvzNMPNK2VBC0MjGUbfi4Av07cb/view?usp=sharing)
