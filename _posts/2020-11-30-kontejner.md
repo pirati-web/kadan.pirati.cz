@@ -33,7 +33,7 @@ A k tomu jim dopomáhají soukromé společnosti, které s městem v pracovně e
 ODS tak dává všem najevo, že pravidla, která si ve městě nastaví, platí a budou vynucována padni komu padni, ovšem jediní, kterých se to netýká, jsou oni sami.
 
 * Rozhodnutí o vyměření místního poplatku za kontejner [zde](https://drive.google.com/file/d/1hwtuBPvzNMPNK2VBC0MjGUbfi4Av07cb/view?usp=sharing)
-* Doručenka s odůvodněním záboru reklama [zde](https://drive.google.com/file/d/1yGBjZAsd1935Uz9WL0VQg64GDR_cG4w1/view?usp=sharing) 
+* Doručenka s odůvodněním záboru reklama [zde](https://drive.google.com/file/d/1aW1oQiXwOcNDefaiWu8GumBon-M4neWk/view?usp=sharing) 
 * Souhlas města [zde](https://drive.google.com/file/d/1yGBjZAsd1935Uz9WL0VQg64GDR_cG4w1/view?usp=sharing)
 * Vyhláška zakazující reklamu ve městě [zde](https://drive.google.com/file/d/1ooV2TBB4T3BWOPvqjhdEMlsVIjIHT-KR/view?usp=sharing)
 
