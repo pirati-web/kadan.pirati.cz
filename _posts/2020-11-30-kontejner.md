@@ -5,7 +5,7 @@ title: Co je kontejner a co volební plachta?
 date: 2020-11-30
 author: Místní sdružení Kadaň
 authorId: mistni.sdruzeni   # uid nekoho z _people
-image: posts/kontejner.jpg
+image: posts/kontejner.png
 tags:
   - Volby
   - Reklama
