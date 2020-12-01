@@ -48,8 +48,10 @@ Zmíněný povolený zábor veřejného prostranství je vyžádán na reklamu, 
 Nekritizujeme městský úřad za každou cenu. Máme ale pocit, že by se ke všem mělo přistupovat stejně, ať už na sobě mají, nebo nemají **starostovský řetěz a za sebou firmu, která umisťuje kontejnery ve tvaru volebních plachet.**
 
 Věříme, že se celá záležitost vysvětlí a do budoucna ubude naprosto zbytečných obstrukcí a zmatků v umisťování politické reklamy v Kadani. 
+
 Tato reklama je jednorázová a chvilková, není tedy reklamním smogem v pravém slova smyslu. 
 Tato reklama je důležitá, reprezentuje možnost oslovit obyvatele města konkrétním plánem a sdělením, které si k některým jinak cestu nenajde. 
+
 Taková reklama je právem každého politického subjektu, který reprezentuje určité procento voličů a neměla by být podloudně usurpována jediným vládcem.
 
 
