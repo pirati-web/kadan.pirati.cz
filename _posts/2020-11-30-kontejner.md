@@ -29,7 +29,9 @@ Před předvolební kampaní a během ní jsme se několikrát pokoušeli o vzty
 Po několikerých výměnách výkladů a názorů mezi námi a městskými úředníky jsme se rozhodli nerozdmýchávat nějaké kontroverze a od snahy umístit v Kadani jakoukoliv viditelnější reklamu oficiální cestou jsme upustili s tím, že se alespoň pravidla na území města týkají všech.
 
 O to větší bylo naše překvapení, když se na jednom z nejfrekventovanějších míst u kruhového objezdu objevil banner ODS se starostou Kulhánkem v hlavní roli.
-Slogan a možnou odpověď o tom, jakou chybu ve vedení kraje v minulosti dělala strana Petra Fialy, neřešíme; stejně tak se nezabýváme vhodností umístění poutače de facto v kruhovém objezdu v bezprostřední blízkosti frekventované komunikace. 
+
+Slogan a možnou odpověď o tom, jakou chybu ve vedení kraje v minulosti dělala strana Petra Fialy, neřešíme; 
+stejně tak se nezabýváme vhodností umístění poutače de facto v kruhovém objezdu v bezprostřední blízkosti frekventované komunikace. 
 
 Zajímavý je na té situaci především fakt, že jsme si v Kadani rovni, ovšem někteří jsou si rovnější.
 A k tomu jim dopomáhají soukromé společnosti, které s městem v pracovně ekonomické rovině interagují. 
