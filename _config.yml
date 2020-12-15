@@ -130,11 +130,6 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
-      path: "_posts"
-    values:
-      layout: "post"
-  -
-    scope:
       path: "_people"
     values:
       layout: "person"
@@ -142,14 +137,16 @@ defaults:   # defaults values for collection scope
         - foto
         - personContact
         - people
+      keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
       rbar:
-         - garant
-         - program
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
 
 emptyArray: []
 
