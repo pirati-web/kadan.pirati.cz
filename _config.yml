@@ -101,6 +101,7 @@ markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   #- jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-environment-variables
