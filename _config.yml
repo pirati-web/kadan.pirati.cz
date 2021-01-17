@@ -102,7 +102,7 @@ theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-paginate-v2
+  #- jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
