@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/kindlkarel.jpg   # 165 x 220
-description: student politologie    příznivec KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: příznivec KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
@@ -17,9 +17,7 @@ profiles:
   flickr: 
 ---
 
-Karel Kindl, nar. 1993, Piráti
-
-student politologie
+Karel Kindl, nar. 1993, student politologie, příznivec KS Ústecký kraj  
 
 Narodil jsem se v Kadani, bydlím v Klášterci nad Ohří.
 Vystudoval jsem Gymnázium v Kadani, kde jsem úspěšně odmaturoval. 
