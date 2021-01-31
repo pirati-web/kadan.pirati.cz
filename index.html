@@ -6,12 +6,10 @@ rbar:
 img: piratiulk.png
 ---
 
-{% include homepage/banner.html 
-   link='https://kadan.pirati.cz'
-   title='Piráti v Kadani'
-   default='Kadan_head.png'
-   mobile='Kadan_head.png'
-   breakpoint=640
-%}
+{% include homepage/banner.html href="https://kadan.pirati.cz" cta="Piráti v Kadani" title="Piráti v Kadani" img="Kadan_head.png" %}
 
-{% include homepage/news-with-rbar.html %}
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>

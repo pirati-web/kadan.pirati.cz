@@ -56,8 +56,8 @@ calendar:
 facebook: 
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/pirati.ulk
+  profilePageName: Piráti Ústecký kraj
   appId: 1526197851008996
 
 twitter:
