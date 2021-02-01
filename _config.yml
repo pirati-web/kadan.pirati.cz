@@ -56,8 +56,8 @@ calendar:
 facebook: 
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/PiratiKadan/
-  profilePageName: Piráti Kadaň
+  profilePage: https://www.facebook.com/kadanpirati
+  profilePageName: Kadaň Piráti
   appId: 1526197851008996
 
 twitter:
