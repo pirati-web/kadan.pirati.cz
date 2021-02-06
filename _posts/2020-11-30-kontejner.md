@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# Trampoty s reklamou v Kadani, aneb Někteří jsou si rovnější
+# Trampoty s reklamou v Kadani, aneb někteří jsou si rovnější. Jak vládnoucí strana obchází svá vlastní pravidla.
 
 Kadaň je známá tím, že se všemi dostupnými prostředky snaží zabránit jakékoliv reklamě ve městě. 
 To by snad bylo v pořádku vzhledem k tomu, jak nás esteticky obtěžuje všudypřítomný reklamní smog. V tomto ohledu jsme s vedením města zajedno. 
