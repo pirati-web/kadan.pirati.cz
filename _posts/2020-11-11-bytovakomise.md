@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# Chybí kritéria
+# Stále chybí jasná kritéria přidělování bytů, která by právě v době pandemie zjednodušili rozhodování členů komise.
 
 V současné době z epidemiologických důvodů je činnost komisí rady města zastavena nebo probíhají online. 
 
