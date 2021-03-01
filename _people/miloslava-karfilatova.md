@@ -20,6 +20,7 @@ profiles:
   flickr: 
 ---
  Miloslava Karfilátová, nar. 1966, členka bytové komise 
+ 
  personalistka
  
 Pocházím z K. Varů, kde jsem absolvovala základní a střední školu. Vysokoškolské vzdělání jsem získala na VŠEM Praha, bakalářské v oboru Komunikace a lidské zdroje, magisterské v oboru Management firem. Do Kadaně jsem přišla v roce 2004 jako personalistka tehdy jediného investora na nově vznikající průmyslové zóně Královský vrch. Nejprve jsem dojížděla, po necelém roce jsem se do Kadaně i s rodinou přestěhovala. 
