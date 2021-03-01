@@ -21,7 +21,7 @@ profiles:
   flickr:
 ---
 
-Hana Vodrážková (nar. 1972), členka zastupitelstva, Piráti
+Hana Vodrážková, nar. 1972, členka zastupitelstva, Piráti
 
 ředitelka NNO
 
