@@ -17,5 +17,6 @@ profiles:
   flickr:
 ---
 
-jiří Jedlička, Ing., gastronom, BPP 
+Jiří Jedlička, Ing., živnostník, BPP 
 
+Žiji v Kadani, vystudoval jsem VŠCHT - kvalita a bezpečnost potravin, pracuji v gastro oboru. 
