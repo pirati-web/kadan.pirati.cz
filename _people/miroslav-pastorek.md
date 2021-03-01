@@ -19,6 +19,8 @@ profiles:
 
 Miroslav Pastorek, nar 1957, člen kontrolního výboru, příznivec KS Ústecký kraj  
 
+Právník
+
 Narodil jsem se v Žatci a své dětství a jinošství jsem prožil na malé vesnici cca 10 km od Žatce. 
 Jako kluk z vesnice jsem tíhnul k zemědělství, a tak jsem jako svůj obor do budoucnosti zvolil řemeslo a
 vyučil se opravářem zemědělských strojů. 
