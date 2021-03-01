@@ -22,5 +22,7 @@ Jiří Kopica, nar. 1978, člen památkové komise, BPP
 muzejník a historik
 
 Po úspěšné maturitě na kadaňském gymnázium, následovalo také úspěšné studium na FF UP v Olomouci v oborech historie a sociologie. Poté následoval úspěšný návrat do rodné Kadaně a práce v nově založeném městském muzeu. 
+
 Muzejničení se mi pak stalo "osudným", takže jsem pracoval v muzeích v Žatci a následně i v Chomutově, kde jsem doposud. Přitom jsem vydal pár knih a publikoval něco článků. 
+
 K zájmům patří historie, běh a dobré víno. A také zájem o politiku, ať už tu místní, tak republikovou.      
