@@ -17,6 +17,6 @@ profiles:
   flickr:
 ---
 
-Jiří Jedlička, Ing., nar. 1967, živnostník, BPP 
+Jiří Jedlička, nar. 1967, živnostník, BPP 
 
 Žiji v Kadani, vystudoval jsem VŠCHT - kvalita a bezpečnost potravin, pracuji v gastro oboru. 
