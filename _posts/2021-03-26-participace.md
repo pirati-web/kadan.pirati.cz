@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: Participativní rozpočet   
+title: Participace   
 date: 2021-03-26
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
@@ -10,13 +10,14 @@ tags:
   - Participace
   - Participativní rozpočet
   - Občanská aktivita
- 
+  - Veřejné dění
+  - Spolurozhodování 
   
 ---
 
 # **Participace** = zapojení občanů do veřejného života. Proč Rada v Kadani nechce umožnit lidem aktivně se zapojit do rozhodování, na co půjde alespoň malá část investičních peněz z veřejného rozpočtu?
 
-Opakovaně jsme navrhovali aspoň začít jednání ohledně možnosti zavést v Kadani participativní rozpočet. Zamítnuto.
+Opakovaně jsme navrhovali aspoň začít jednání ohledně možnosti zavést v Kadani **participativní rozpočet. Zamítnuto.**
 
 **Nic to nestojí**, jde jen o vyhrazení části každoročního rozpočtu (např. 3 miliony Kč, z celkových téměř 500 milionů Kč), na většinou menší stavební akce podle přání lidí z celého města. 
 Lidé mohou být ti nejaktivnější, co nějaký záměr navrhnou třeba i s nákresem, rozpočtem nebo jim s tím pomohou úředníci města. **Všichni občané** města pak ale mohou být také aktivní, když o jednotlivých záměrech budou elektronicky hlasovat (z pohodlí domova, anonymně, většinou s více hlasy pro i proti).
