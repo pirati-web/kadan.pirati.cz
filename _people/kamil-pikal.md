@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 
-img: people/   # 165 x 220
+img: people/pikal.jpg   # 165 x 220
 description: diplomat,    člen MS Kadaň, KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
