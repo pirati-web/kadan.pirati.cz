@@ -1,20 +1,19 @@
 ---
 layout: default
-title: Pirátské aktuality Kadaň
-description: Seznam novinek, článků a kauz Kadaňě očima Pirátů
-keywords: aktuality, novinky tiskové zprávy, blog
-pagination:
-  enabled: true
+title: Aktuality
+description: Novinky z města Kadaň
+keywords: aktuality, tiskové zprávy, press, blog
 ---
 
 <div class="container container--default pt-8 lg:py-24">
   <section>
-    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality:</h1>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuality</h1>
+
+    {% assign posts = paginator.posts %}
     <main>
-      {% include articles/list-responsive.html posts=paginator.posts %}
+      {% include articles/list-responsive.html posts=posts %}
     </main>
-    {% if paginator.total_pages > 1 %}
-      {% include articles/pagination.html paginator=paginator %}
-    {% endif %}
+
+    {% include articles/pagination.html paginator=paginator %}
   </section>
 </div>
