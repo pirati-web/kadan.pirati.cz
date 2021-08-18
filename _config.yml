@@ -89,6 +89,7 @@ github:
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+
 github_username:  pirati-web
 
 sass:
@@ -102,11 +103,10 @@ theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  #- jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
-paginate: 11
+paginate: 12
 
 exclude:
   - readme.md
@@ -173,5 +173,7 @@ assets:
     - assets/video
     - assets/img
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
 
 styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
