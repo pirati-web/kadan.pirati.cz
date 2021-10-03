@@ -42,3 +42,4 @@ Na zastupitelstvu jsme od životního prostředí dotali odpověď, že by se to
 A provozní náklady se u nás prý odhadují na pouhých cca 10 tisíc Kč ročně!? 
 No necháme se překvapit. 
 
+
