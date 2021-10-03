@@ -26,7 +26,7 @@ Například naše dvojka [Lukáš Blažej](https://www.pirati.cz/lide/lukas-blaz
 
 Dorazili příznivci, kteří přišli popřát úspěch a nepohrdli fotkou i diskutéři, kteří měli konkrétní problemmatické otázky, na něž neváhali přítomní odpovídat.
 
-Rozdalo se mnoho [koaličních předvolebních listů]( https://piratistanuk.cz/) a Ivan zahrál i na harmoniku, čímž snad zpříjemnil kolemjdoucím spěchajícícm na oběd pracovní pauzu.
+Rozdalo se mnoho [koaličních předvolebních listů]( https://piratistanuk.cz/) a Ivan zahrál i na harmoniku, čímž snad zpříjemnil kolemjdoucím spěchajícím na oběd pracovní pauzu.
 
 Budeme se na vás těšit u voleb.
 
