@@ -28,12 +28,13 @@ Stavba roste, kupole se chystá, dalekohledy jsou na gymnáziu již připravené
 
 Co mě však zaujalo je, že se moc **nepočítá s tím, že tam bude chodit veřejnost nebo jen minimálně.**
 
-Že bude obsluha dálková a můžeme si záběry skouknout z domova na youtube je vcelku moderní trend a i přestože jde spíš o "libůstku pro fajnšmekry",
-ve většině měst hvězdárnu provozují pro návštěvníky, dělají tam různé akce a přednášky, promítání a exkurze, aby se aspoň trochu 
-podílela na provozních nákladech a sloužila jako cíl třeba turistům.
+Že bude obsluha dálková a můžeme si záběry skouknout z domova na youtube je vcelku moderní trend a i přestože jde spíš o "libůstku pro fajnšmekry", ve většině měst hvězdárnu provozují pro návštěvníky. Dělají tam různé akce a přednášky, promítání a exkurze, 
+aby se aspoň trochu podílela na provozních nákladech a sloužila jako cíl třeba turistům.
 
-Je ale pravda, že po té, co jsem zjistila, že autem nahoru nevyjedete (prostor na parkování je tam minimální už i pro zahrádkáře a okolní lesy se chránit musí),
-a přestože hvězdárny na kopcích bývají :), tak ten náš pěšky stojí za to. 
+Je ale pravda, že po té, co jsem zjistila, že autem nahoru nevyjedete (prostor na parkování je tam minimální už i pro zahrádkáře a okolní lesy se chránit musí) a s přístupem z jiné strany se nepočítá, tak to půjde těžko.
+
+hvězdárny na kopcích bývají :), ale ten náš pěšky stojí za to.
+
 Mě sice problém nedělá, ale třeba s kočárkem nebo **pro malé děti, seniory, hendikepované je pak toto budoucí dílo za 6 milionů Kč nedostupné.**
 
 Ale nakonec je to možná i dobře, protože až by se turista náhodou chtěl projít po okolí a uviděl by ten nepořádek lesníků, kdy se zde již roky válejí stromy, 
