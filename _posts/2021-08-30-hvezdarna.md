@@ -24,7 +24,8 @@ zapomenutého prostředního kopce, který dosud znali většinou jen zahrádká
 Já osobně ho mám moc ráda, ať už z nostalgie, když jsme tam v mládí trávili volný čas s partou nebo pro klidné procházky lesíkem, 
 ale především protože na západní straně poskytuje nádherné vyhlídky.
 
-Stavba roste, kupole se chystá, dalekohledy jsou na gymnáziu již připravené... že se to trošku prodražuje, na to už jsme zvyklí-
+Stavba roste, kupole se chystá, dalekohledy jsou na gymnáziu již připravené... že se to trošku prodražuje, na to už jsme zvyklí.
+
 Co mě však zaujalo je, že se moc **nepočítá s tím, že tam bude chodit veřejnost nebo jen minimálně.**
 
 Že bude obsluha dálková a můžeme si záběry skouknout z domova na youtube je vcelku moderní trend a i přestože jde spíš o "libůstku pro fajnšmekry",
