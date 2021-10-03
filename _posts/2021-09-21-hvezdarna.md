@@ -33,8 +33,7 @@ aby se aspoň trochu podílela na provozních nákladech a sloužila jako cíl t
 
 Je ale pravda, že po té, co jsem zjistila, že autem nahoru nevyjedete (prostor na parkování je tam minimální už i pro zahrádkáře a okolní lesy se chránit musí) a s přístupem z jiné strany se nepočítá, tak to půjde těžko.
 
-hvězdárny na kopcích bývají :), ale ten náš pěšky stojí za to.
-
+Hvězdárny na kopcích bývají :), ale ten náš pěšky stojí za to.
 Mě sice problém nedělá, ale třeba s kočárkem nebo **pro malé děti, seniory, hendikepované je pak toto budoucí dílo za 6 milionů Kč nedostupné.**
 
 Ale nakonec je to možná i dobře, protože až by se turista náhodou chtěl projít po okolí a uviděl by ten nepořádek lesníků, kdy se zde již roky válejí stromy, 
