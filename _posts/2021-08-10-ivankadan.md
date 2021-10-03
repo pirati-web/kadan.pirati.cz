@@ -31,6 +31,7 @@ Rozdalo se mnoho [koaličních předvolebních listů]( https://piratistanuk.cz/
 Budeme se na vás těšit u voleb.
 
 #vratmezemibudoucnost
+
 #piratostan
 
 
