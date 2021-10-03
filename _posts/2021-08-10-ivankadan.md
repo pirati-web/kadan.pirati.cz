@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# V létě zavítali v rámci kontaktní kampaně do kadaně i lídři koalice Ivan Bartoš a Vít Rakušan.
+# V létě zavítali v rámci kontaktní kampaně do kadaně i lídři koalice [Ivan Bartoš](https://www.pirati.cz/lide/ivan-bartos/) a [Vít Rakušan](https://www.starostove-nezavisli.cz/volby/archiv/parlamentni-volby-2017/nejnovejsi-informace/kandidati/rakusan-vit).
 
 Celé léto bylo nabité událostmi, kde se veřejnost mohla setkat s kandidáty do sněmovny a vyjádřit jim podporu, položit otázky a diskutovat o tom, 
 co je třeba trátí nebo by se mělo zlepšit. Kromě onlinové kampaně probíhala i ta v ulicích.
