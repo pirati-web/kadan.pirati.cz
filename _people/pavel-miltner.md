@@ -10,7 +10,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 ordpms:
 - 4
 img: people/miltner.jpg   # 165 x 220
-description: geodet,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: geodet,    3. místopředseda MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: pavel.miltner@pirati.cz
 mob:	
 profiles:
