@@ -39,7 +39,9 @@ Ale nakonec je to možná i dobře, protože až by se turista náhodou chtěl p
 zbytky po těžbě a cesty nejsou upravované, natož značené, tak by asi měl po dobrém dojmu z výletu.
 
 Na zastupitelstvu jsme od životního prostředí dotali odpověď, že by se to mělo do zimy snad uklidit, tak uvidíme. 
-A provozní náklady se u nás prý odhadují na pouhých cca 10 tisíc Kč ročně!? 
+
+A provozní náklady se u nás prý odhadují na pouhých cca 10 tisíc Kč ročně!?
+
 No necháme se překvapit. 
 
 
