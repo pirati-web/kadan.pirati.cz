@@ -19,6 +19,6 @@ tags:
 
 [Dotační program na podporu podnikatelů](https://www.mesto-kadan.cz/cs/mesto/dotacni-programy-mesta/dotace-na-r-2022.html) [připomínkujeme od jeho vzniku](https://kadan.pirati.cz/aktuality/dotace2.html), protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
 
-Původním cílem bylo **"oživit mrtvé náměstí", což se ale bohužel nedaří ani přes statisícové sumy**, kteří někteří zdejší podnikatelé skoro pravidelně každoročně inkasují.
+Původním cílem bylo **"oživit mrtvé náměstí", což se ale bohužel nedaří ani přes statisícové sumy**, kteří někteří zdejší podnikatelé skoro pravidelně každoročně inkasují *(jak ukazuje i obrázek první dvacítky našeho přehledu z celkem 85 žadatelů)* .
 
 
