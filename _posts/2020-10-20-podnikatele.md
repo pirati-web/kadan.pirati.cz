@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: Změna dotací pro podnikatele
-date: 2021-10-20
+date: 2020-10-20
 author: Jana Hladová
 authorId: jana.hladova
 image: posts/podnikatele.jpeg
