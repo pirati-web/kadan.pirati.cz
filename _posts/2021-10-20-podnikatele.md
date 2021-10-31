@@ -15,7 +15,7 @@ tags:
  
 ---
 
-# Náš návrh na upravení systému dotací tak, aby byl spravedlivější pro všechny, prošel jen o pár hlasů, tak věříme, že kritéria, která pomohou jak v rozhodování, tak v orientaci žadatelů budou přijata.
+# Náš návrh na upravení systému dotací tak, aby byl spravedlivější pro všechny, prošel jen o pár hlasů, ale věříme, že kritéria, která pomohou jak v rozhodování, tak v orientaci žadatelů budou přijata.
 
 Dotační program na podporu podnikatelů připomínkujeme od jeho vzniku, protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
 
