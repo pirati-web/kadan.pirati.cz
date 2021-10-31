@@ -19,6 +19,16 @@ tags:
 
 [Dotační program na podporu podnikatelů](https://www.mesto-kadan.cz/cs/mesto/dotacni-programy-mesta/dotace-na-r-2022.html) [připomínkujeme od jeho vzniku](https://kadan.pirati.cz/aktuality/dotace2.html), protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
 
-Původním cílem bylo **"oživit mrtvé náměstí", což se ale bohužel nedaří ani přes statisícové sumy**, kteří někteří zdejší podnikatelé skoro pravidelně každoročně inkasují *(jak ukazuje i obrázek první dvacítky našeho přehledu z celkem 85 žadatelů)* .
+Původním cílem bylo **"oživit mrtvé náměstí", což se ale bohužel nedaří ani přes statisícové sumy**, kteří někteří zdejší podnikatelé i při opakovaných žádostech [vyinkasovali].
 
+Náš návrh zahrnuje **rozšíření programu na celé město** (se zvýšeným bodováním pro památkovou zonu), **podporu především malých a nově vznikajících podnikatelů se zajímavými záměry** pro využití  veřejnosti a především bodování jednotlivých kritérií a **rozhodování na základě sečtených výsledků**, aby i žadatelé měli zěptnou vazbu a pocit spravedlnosti.
+
+Nelíbí se nám ani přesun rozhodování do rady a **podporujem vznik nezávislé dotační komise**, a to pro všechny dotační programy.
+Zároveň **apelujeme na sjednocení pravidel všech programů**, včetně začlenění veškerých žádostí do nich.
+
+*(Aby pak nedocházelo k zvlášní exkluzivitě jako má například Vysmáté léto a Párty na Františkáně, kdy získávají bez vyúčtování celkových nákladů podporu z města 1 milion Kč přímo z rozpočtu.)* 
+
+Obdobné dotační tituly fungují i v ostatních městech, také pro mnoho oblastí veřejných služeb a právě jasná pravidla jsou ukazatelem správného transparentního nakládání s veřejnými prostředky.
+
+Rádi se podílíme na zlepšení situace i v našem městě.
 
