@@ -17,7 +17,7 @@ tags:
 
 # Náš návrh na upravení systému dotací tak, aby byl spravedlivější pro všechny, prošel jen o pár hlasů, ale věříme, že kritéria, která pomohou jak v rozhodování, tak v orientaci žadatelů budou přijata.
 
-Dotační program na podporu podnikatelů připomínkujeme od jeho vzniku, protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
+[Dotační program na podporu podnikatelů](https://www.mesto-kadan.cz/cs/mesto/dotacni-programy-mesta/dotace-na-r-2022.html) [připomínkujeme od jeho vzniku](https://kadan.pirati.cz/aktuality/dotace2.html), protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
 
 Původním cílem bylo **"oživit mrtvé náměstí", což se ale bohužel nedaří ani přes statisícové sumy**, kteří někteří zdejší podnikatelé skoro pravidelně každoročně inkasují.
 
