@@ -49,3 +49,4 @@ Naposledy přišlo s komickým sdělením, že si tuto informaci nikam fyzicky n
 Je opravdu prazvláštní proč tento zásadní údaj, který dokládá, že dotace byla využita účelně a v souladu se smlouvou odmítá vedení města sdělit. 
 
 Zčeho má strach? Nevzdáme to, dokud to nezjistíme!
+
