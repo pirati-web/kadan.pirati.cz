@@ -1,15 +1,17 @@
 ---
 layout: post
 category: post
-title: Odpadkové koše za všechny prachy 
+title: Mobiliář za všechny prachy 
 date: 2021-09-28
 author: Jana Hladová
 authorId: jana.hladova
-image: posts/kosedeluxe.PNG
+image: posts/mobiliar.PNG
 tags:
   - Stavební zakázky
   - Rekonstrukce náměstí
   - Výběrová řízení
+  - Mobiliář
+  - Koše
   - Ceny
   - Transparentnost
   - Luxus
