@@ -36,20 +36,16 @@ Při zakázkách pod 6 milionů Kč se totiž nemusí vyhlašovat veřejné výb
 
 *To je v rozporu se zákonem o veřejných zakázkách i s městskou směrnicí na přidělování zakázek, ale holt kde není žalobce, není soudce.*
 
-Kromě toho je zde také velké množství víceprací a tedy vícenákladů, které i přes naše trvané připomínky nemá zájem město lépe kontrolovat či omezit. 
-
+Kromě toho je zde také **velké množství víceprací a tedy vícenákladů**, které i přes naše trvané připomínky nemá zájem město lépe kontrolovat či omezit. 
 Jinde se třeba osvědčilo omezit vícepráce ve smlouvách na maximálně 10% daného rozpočtu. 
-
 Jak ale (ne)zná naše pracovní skupina pro vícepráce dané rozpočty jsme si bohužel ověřili minule.  
  
 Chápeme, že celá plocha náměstí se nedá rekonstruovat najednou, ale nevyšlo by mnoho prací a prvků mnohem levněji, pokud by se investice rozdělila 
 jen na dvě zakázky? 
 Ušetřilo by se nejen na zpracování projektové dokumentace, ale zcela jistě i na mobiliáři, zvláště pokud by se použil běžně dostupný a vkusný prvek. 
 
-Jedná se o velmi nehospodárný přístup a utrácení peněz, které by se daly využít účelněji. 
-
+Jedná se o velmi **nehospodárný přístup a utrácení peněz, které by se daly využít účelněji.** 
 Stále namítáme, že například podpora sportu dětí v Kadani je nedostatečná. Odpověď je, že peněz je málo. 
-
 Při tomto stylu hospodaření, není divu.
 
 
