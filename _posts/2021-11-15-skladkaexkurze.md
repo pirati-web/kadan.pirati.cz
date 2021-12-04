@@ -4,7 +4,7 @@ category: post
 title: Skládka Tušimice    
 date: 2021-11-15
 author: zastupitelky
-image: posts/skladkaexkurze.jpg
+image: posts/skladkaexkurze.jpeg
 tags:
   - Skládka Tušimice
   - Marius Pedersen a.s.
