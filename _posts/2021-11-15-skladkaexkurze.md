@@ -4,7 +4,7 @@ category: post
 title: Skládka Tušimice    
 date: 2021-11-15
 author: zastupitelky
-image: posts/skladka.jpg
+image: posts/skladkaexkurze.jpg
 tags:
   - Skládka Tušimice
   - Marius Pedersen a.s.
@@ -16,7 +16,7 @@ tags:
   
 ---
 
-# Exkurze zatupitelů na skládku v Tušimicíh byla naučná a zodpověděla mnoho otázek. Nicméně dále trváme na ton, že podpora komerčního provozovatele nebyla správná a město tak zbytečně vyhodilo 5 milionů Kč. Prokázat účelnost se mu zatím nepodařilo.
+# Exkurze zastupitelů na skládku v Tušimicíh byla naučná a zodpověděla mnoho otázek. Nicméně dále trváme na ton, že podpora komerčního provozovatele nebyla správná a město tak zbytečně vyhodilo 5 milionů Kč. Prokázat účelnost se mu zatím nepodařilo.
 
 V listopadu proběhla i na základě našeho zájmu exkurze na skládce odpadu v Tušimicích.
 
