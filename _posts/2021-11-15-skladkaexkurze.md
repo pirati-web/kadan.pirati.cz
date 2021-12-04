@@ -36,7 +36,7 @@ Provozovatel marius Pedersen získává i **další finanční přínosy z prode
 
 Proto **je s podivem, že město Kadaň ještě dále podporuje tento výdělečný gigant dotacemi z městského rozpočtu.**
 
-**Už více jak rok požadujeme od vedení města jméno původce,** na kterého na základě smlouvy přispělo.
+**Už více jak [rok požadujeme](https://kadan.pirati.cz/aktuality/skladka.html) od vedení města jméno původce,** na kterého na základě smlouvy přispělo.
 
 Jako zastupitelé, kteří smlouvu schvalovali, máme jistě nárok vědět, jak konkrétně byla tato nemalá suma využita. 
 Jelikož dle smlouvy měl být díky ní zvýhodněn na poplatku za ukládání odpadu konkrétní, nový původce, tak je logické, že by radnice měla disponovat informací, kdo to je. 
