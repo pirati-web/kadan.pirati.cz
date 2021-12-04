@@ -16,37 +16,41 @@ tags:
  
 ---
 
-# Město Kadaň utratilo za designové koše na náměstí a okolí téměř 1 milion Kč! Ve srovnání například s částkou 600-700 tisíc Kč, kterou vedení přiděluje na 
-celoroční činnost spolků jež poskytují obyvatelům různé veřejné (převážně sociální) služby je to absurdní. Dlouhodobě upozorňujeme na netransparentní a 
-nehospodárné zacházení s veřejnými prostředky. 
- 
+# Město Kadaň utratilo za designové koše na náměstí a přilehlých ulicích téměř 1 milion Kč! Ve srovnání například s částkou 600 tisíc Kč, kterou vedení přiděluje na celoroční činnost spolků jež poskytují obyvatelům různé veřejné služby je to absurdní. Dlouhodobě upozorňujeme na netransparentní a nehospodárné zacházení s veřejnými prostředky. 
 
-Vracíme se ke kauze "koše", kde jsme při kontrole zakázek narazili na výrazné nesrovnalosti, nejen v cenách za identické výrobky.
+Vracíme se ke [kauze "koše"](https://kadan.pirati.cz/aktuality/kose.html), kde jsme při kontrole zakázek narazili na výrazné nesrovnalosti, nejen v cenách za identické výrobky.
 
 **Rozpětí cen košů od 22 do 41 tisíc Kč je tristní**.
+Zajímavé je, že ceny se lišily dle zakázek.  U té první, byly zdaleka nejlevnější, u poslední nejdražší. Některé koše byly dokonce objednány zcela mimo veřejnou zakázku pouze na objednávku. Celkově nás 26 kusů odpadkových košů na náměstí a pěší zóně vyšlo na více jak 860 000,- korun. 
 
-Dále ale z materiálů vyplývá, že rekostrukce povrchů na Mírovém náměstí byla rozdělena na několik menších zakázek.byly shodné stavební práce rozděleny do několika zakázek, u nichž cena ani jedné nepřesáhla 6 miliónů korun což je hranice pro veřejné výběrové řízení. Zda to bylo účelové, posuďte sami.  
-Při zakázkách pod 6 milionů Kč se totiž nemusí vyhlašovat veřejné výběrové řízení, ale odbor si pouze poptá své "oblíbené firmy".
-*To je v rozporu se zákonem o veřejných zakázkách i s městskou směrnicí na přidělování zakázek, ale holt kde není žalobce, není soudce.*Kromě toho je zde ale  velkého množství víceprací, které i přes naše trvané připomínky nemá zájem město omezit například ve smlouvách na max. 10% ceny rozpočtu, jak se to třeba osvědčilo jinde.
+Opravdu jsme potřebovali umělecké kousky s tropickým dřevem? 
+*Zvláště když jejich oprava nebo náhrada bude opět problematická jako v kontroverzní zakázce na Nábřeží Maxipsa Fíka.* 
+Nepoučitlení. Nebo je to záměr?
+
+V porovnání s mobiliářem (koše, stojany na kola, lavičky) běžně dostupným v internetových obchodech vychází mnohonásobně draž a nevíme zda tento luxus někdo ocení, když je náměstí stejně pořád prázdné.
+
+Dále ale z materiálů vyplývá, že rekostrukce povrchů na Mírovém náměstí (tedy shodné stavební práce) **byla rozdělena na několik menších zakázek.**
+U těch cena ani jedné nepřesáhla 6 miliónů korun, což je hranice pro veřejné výběrové řízení. **Zda to bylo účelové, posuďte sami.**
+
+Při zakázkách pod 6 milionů Kč se totiž nemusí vyhlašovat veřejné výběrové řízení, ale město si pouze poptá své "oblíbené firmy".
+
+*To je v rozporu se zákonem o veřejných zakázkách i s městskou směrnicí na přidělování zakázek, ale holt kde není žalobce, není soudce.*
+
+Kromě toho je zde také velké množství víceprací a tedy vícenákladů, které i přes naše trvané připomínky nemá zájem město lépe kontrolovat či omezit. 
+
+Jinde se třeba osvědčilo omezit vícepráce ve smlouvách na maximálně 10% daného rozpočtu. 
+
+Jak ale (ne)zná naše pracovní skupina pro vícepráce dané rozpočty jsme si bohužel ověřili minule.  
  
+Chápeme, že celá plocha náměstí se nedá rekonstruovat najednou, ale nevyšlo by mnoho prací a prvků mnohem levněji, pokud by se investice rozdělila 
+jen na dvě zakázky? 
+Ušetřilo by se nejen na zpracování projektové dokumentace, ale zcela jistě i na mobiliáři, zvláště pokud by se použil běžně dostupný a vkusný prvek. 
 
-nstrukcí, které proběhly na náměstí v letech 2018 - 2020 byly na náměstí umístěny designové koše od firmy FRK, která mimochodem všech 5 rekonstrukcí realizovala. 
-Při kontrole cen těchto košů jsme zjistili, že ač jsou koše umístěné na náměstí a v přilehlých ulicích **naprosto identické**, 
-jejich cena se výrazně liší. 
-**Na jedné straně náměstí stál takový odpadkový koš 13 tisíc a na druhé i 35 tisíc korun.**
-Podstatný rozdíl byl také v ceně za montáž tohoto mobiliáře. 
+Jedná se o velmi nehospodárný přístup a utrácení peněz, které by se daly využít účelněji. 
 
-Zeptali jsme se tedy na zastupitelstvu, proč je zde tak výrazný cenový rozdíl, když realizaci prováděla stále stejná firma a náklady na výrobu koše byly v tomto období ještě nezatíženy jakýmkoliv zdražováním vstupních materiálů.
+Stále namítáme, že například podpora sportu dětí v Kadani je nedostatečná. Odpověď je, že peněz je málo. 
 
-Odpověď jsme žádali od zastupitelů (Vaic, Hakl, Voltr) kteří jsou členy „Pracovní skupiny pro vícepráce“ a tudíž **by měli znát rozpočty** těchto akcí 
-a mít přehled o nákladech na jednotlivé práce. 
+Při tomto stylu hospodaření, není divu.
 
-Velmi nás překvapilo, že tito **zástupci z řad radních** nejen že **neuměli tyto rozdíly vysvětlit,** ale ještě argumentovali tím, že jelikož řešili „pouze“ vícepráce, nezjišťovali jednotlivé ceny v položkovém rozpočtu. 
-Nutno podotknout, že členové pracovní skupiny pro zadávání zakázek (Losenický, Oswald, Hosman) také mlčeli jako hrob. 
 
-To je **zajímavý postoj někoho, kdo má kontrolovat zda město za provedené práce neplatí víc** než je z objektivních důvodů nutné.
-
-Konečným vysvětlením nám bylo konstatování, že TAK TO PROSTĚ JE! 
-
-Podrobně se problematice zakázek a víceprací ještě budeme věnovat.4
 
