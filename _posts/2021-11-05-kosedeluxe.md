@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: Mobiliář za všechny prachy 
-date: 2021-09-28
+date: 2021-11-05
 author: Jana Hladová
 authorId: jana.hladova
 image: posts/mobiliar.PNG
