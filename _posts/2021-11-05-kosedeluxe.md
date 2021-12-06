@@ -29,7 +29,7 @@ Opravdu jsme potřebovali umělecké kousky s tropickým dřevem?
 *Zvláště když jejich oprava nebo náhrada bude opět problematická jako v kontroverzní zakázce na Nábřeží Maxipsa Fíka.* 
 Vzhledem k faktu, že realizační firma zanikla, vyvstává otázka, kdo bude tyto prvky opravovat nebo dodávat nové v případě potřeby.
 
-V porovnání s mobiliářem (koše, stojany na kola, lavičky) běžně dostupným v internetových obchodech vychází mnohonásobně draž, i když vzhledově se příliš neliší.
+V porovnání s mobiliářem (koše, stojany na kola, lavičky) běžně dostupným v internetových obchodech vychází mnohonásobně dráž, i když vzhledově se příliš neliší.
 
 Dále ale z materiálů vyplývá, že rekonstrukce povrchů na Mírovém náměstí (tedy shodné stavební práce) **byla rozdělena na několik menších zakázek.**
 U těch cena ani jedné nepřesáhla 6 miliónů korun, což je hranice pro veřejné výběrové řízení. **Zda to bylo účelové, posuďte sami.**
@@ -39,7 +39,7 @@ Při zakázkách pod 6 milionů Kč se totiž nemusí vyhlašovat veřejné výb
 
 *Tato praxe je v rozporu se zákonem o veřejných zakázkách i s městskou směrnicí na přidělování zakázek, ale holt kde není žalobce, není soudce.*
 
-Kromě toho je zde také **velké množství víceprací a tedy vícenákladů**, které i přes naše trvané připomínky nemá zájem město lépe kontrolovat či omezit. 
+Kromě toho je zde také **velké množství víceprací a tedy vícenákladů**, které i přes naše trvalé připomínky nemá zájem město lépe kontrolovat či omezit. 
 Jinde se třeba osvědčilo omezit vícepráce ve smlouvách na maximálně 10% daného rozpočtu. 
 Jak ale (ne)zná naše pracovní skupina pro vícepráce, zvolená Radou města, rozpočty těchto investičních akcí jsme si bohužel ověřili v rámci jednání zastupitelstva, kde se k tomu dotyční vyjádřili více než jasne: znalost rozpočtů kontrolovaných akcí nepovažují za důležitou.  
  
