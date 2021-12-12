@@ -15,7 +15,7 @@ tags:
  
 ---
 
-# Náš návrh na upravení systému dotací tak, aby byl spravedlivější pro všechny, prošel v minulém zastupitelstvu jen o pár hlasů, ale věříme, že kritéria, která pomohou jak v rozhodování, tak v orientaci žadatelů budou přijata.
+# Náš návrh na upravení systému dotací tak, aby byl spravedlivější pro všechny, prošel v minulém zastupitelstvu jen o pár hlasů, tak doufáme, že kritéria, která pomohou jak v rozhodování, tak v orientaci žadatelů budou přijata.
 
 [Dotační program na podporu podnikatelů](https://www.mesto-kadan.cz/cs/mesto/dotacni-programy-mesta/dotace-na-r-2022.html) [připomínkujeme od jeho vzniku](https://kadan.pirati.cz/aktuality/dotace2.html), protože výsledná podpora vůbec **neodpovídá jeho účelu**. 
 
@@ -43,4 +43,4 @@ Naopak oceňujeme původní kritérium udržitelnosti a navrhli jsme umožnění
 
 Obdobné dotační tituly fungují i v ostatních městech, také pro mnoho oblastí veřejných služeb a právě **jasná pravidla jsou ukazatelem správného transparentního nakládání s veřejnými prostředky.**
 
-Rádi se podílíme na zlepšení situace i v našem městě a těšíme se, že po schválení budou naše zastupitelky moci již s čistým svědomím přínosné projekty podpořit.
+Rádi se podílíme na zlepšení situace i v našem městě a uvidíme, zda (po schválení) budou naše zastupitelky moci již s čistým svědomím přínosné projekty podpořit.
