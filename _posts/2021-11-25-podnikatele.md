@@ -37,7 +37,7 @@ Nelíbí se nám ani přesun rozhodování do rady a **podporujeme vznik nezávi
 Zároveň **apelujeme na sjednocení pravidel všech programů**. 
 Zároveň **apelujeme na sjednocení pravidel všech dotačních programů,** včetně začlenění veškerých žádostí do nich.
 
-*(Důvodem je například zvlášní exkluzivita, kterou má Vysmáté léto a Párty na Františkáně, jež získávají bez vyúčtování celkových nákladů podporu z města 1 milion Kč přímo z rozpočtu.)* 
+*(Důvodem je například zvlášní exkluzivita, kterou má Vysmáté léto a [Párty ve Františkánu](https://www.hlidacstatu.cz/hledat?q=61551384), jež získávají bez vyúčtování celkových nákladů podporu z města téměř 1 milion Kč přímo z rozpočtu.)* 
 
 Naopak oceňujeme původní kritérium udržitelnosti a navrhli jsme umožnění opakovaných žádostí až po jeho splnění, aby se omezilo dotování stále stejných účelů. 
 
