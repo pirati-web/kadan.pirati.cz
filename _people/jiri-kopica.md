@@ -5,9 +5,9 @@ titles:
   before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dobro
+- ulk
 img: people/jiri-kopica.jpg   # 165 x 220
-description: přiznivec KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: muzejník a historik, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail:
 mob:	
 profiles:
@@ -17,7 +17,7 @@ profiles:
   flickr:
 ---
 
-Jiří Kopica, nar. 1978, člen památkové komise, BPP  
+Jiří Kopica, nar. 1978, člen památkové komise, Piráti  
 
 muzejník a historik
 
