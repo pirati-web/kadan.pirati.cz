@@ -6,7 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-img: people/stefanpongo.PNG   # 165 x 220
+img: people/stefanpongo.jpg   # 165 x 220
 description: podnikatel, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
