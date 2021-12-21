@@ -6,7 +6,7 @@ titles:
   after: DiS.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
-img: people/sabina.drahotska.jpg   # 165 x 220
+img: people/siluetazena.jpg   # 165 x 220
 description: příznivkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
