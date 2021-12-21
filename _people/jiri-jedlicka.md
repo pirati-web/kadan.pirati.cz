@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/siluetamuz.jpg   # 165 x 220
-description:            	# kratký popis, max 160 znaků
+description: registrovaný příznivec Pirátů          	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
