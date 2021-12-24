@@ -19,7 +19,7 @@ profiles:
 
 
 
-Stanislava Hamáková, nar. 1983, registrovaná příznivkyně KS Ústecký kraj
+Stanislava Hamáková, nar. 1983, BPP
 
 vedoucí dobrovolnického centra, sociální pracovnice
 
