@@ -19,7 +19,7 @@ profiles:
 
 Sabina Drahotská, DiS., nar 1991, členka finančního výboru města Kadaně, BPP
 
-Mzdová účetní a rozpočtářka 
+mzdová účetní a rozpočtářka 
 
 Narodila jsem se v Kadani, vystudovala jsem VOŠ ekonomického směru a pracuji ve službách. Mám s partnerme 2 dcery a jsme sportovně založená rodina.
  
