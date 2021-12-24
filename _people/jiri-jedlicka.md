@@ -17,7 +17,7 @@ profiles:
   flickr:
 ---
 
-Jiří Jedlička, nar. 1967, člen finančního výboru, BPP
+Jiří Jedlička, nar. 1967, člen kontrolního výboru města Kadaně, BPP
 
 živnostník
 
