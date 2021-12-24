@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/stanislava-hamakova.jpg   # 165 x 220
-description: příznivkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: registrovaná příznivkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
