@@ -12,6 +12,8 @@ description: >-
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
+mediaStorage: kadan
+
 administrator:
   email: jan.suchanek@pirati.cz, hana.vodrazkova@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
