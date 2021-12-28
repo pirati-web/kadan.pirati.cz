@@ -26,3 +26,4 @@ Po úspěšné maturitě na kadaňském gymnázium, následovalo také úspěšn
 Muzejničení se mi pak stalo "osudným", takže jsem pracoval v muzeích v Žatci a následně i v Chomutově, kde jsem doposud. Přitom jsem vydal pár knih a publikoval něco článků. 
 
 K zájmům patří historie, běh a dobré víno. A také zájem o politiku, ať už tu místní, tak republikovou.      
+
