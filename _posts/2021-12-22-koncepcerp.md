@@ -25,7 +25,7 @@ tags:
 *Naše společnost se bohužel nachází v nepříznivém demografickém procesu, navíc spojeném s individualizací a materialismem nebo naopak chudobou. 
 Proto by se mělo na všech úrovních dbát na strategii rodinné politiky a podporovat rodiny a jejich potřeby, kvalitní život jak v celé zemi, tak v kraji i v obci.*
 
-Stále je “rodina - základní jednotka státu“, i když je každá jiná a má svá specifika, ale protože většina lidí do nějaké rodiny patří, je **zapojení velkého množství osob 
+Stále je “rodina - základní jednotka státu“, i když je každá jiná a má svá specifika, ale protože většina lidí do nějaké rodiny patří, **je zapojení velkého množství osob 
 do procesu zkvalitňování jejich života více než žádoucí.**
 
 **Naši místostarostové ale pojali jiný názor,** a to, že tento materiál vytvoří na základě kopie cílů a opatření sociálního začleňování a plánu prevence kriminality.
@@ -43,7 +43,7 @@ Samozřejmě sem pak patří **vše již od narození dítěte, přes mládež a
 - Vlajkovou lodí většiny měst je již vítání občánků (které v místním zastaralém podání má také co inovovat). 
 
 - Možnosti péče o děti mladší dvou let v jeslích je zde záměrně? vypuštěna, přestože tu existují již cca 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se tím naopak chlubí. 
--
+
 *Ne každá rodina si může dovolit žít z jednoho příjmu nebo i vzhledem k profesi si maminky potřebují udržovat kvalifikaci a mohou v dnešní době využívat flexibilní malé úvazky, tedy neodkládají děti na celé dny, jak si snad někdo mylně představuje?
 dle svého zájmu. O výsledku budeme informovat.*
 
