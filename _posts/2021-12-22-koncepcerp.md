@@ -68,7 +68,7 @@ Firma přátelská rodině, Obec přátelská rodině apod.*
 
 **Jak má vypadat taková správná koncepce** je dostupné i veřejně – viz níže, jen kdyby se zdejší autoři obtěžovali vůbec někde dovzdělat, spolupracovat a především pak sdílet a komunikovat s místními rodinami.
 
-**RADKA z.s. původní polotovar doplnila, převedla do [onlinu](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel [výsledky](https://drive.google.com/file/d/1yXNFMx6G9w3rgD0LPKB-Dl5yZYy9LHbs/view?usp=sharing) na městě evidentně nikoho nezajímaly.** 
+**RADKA z.s. původní polotovar doplnila, převedla do [ONLINU](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel [výsledky](https://drive.google.com/file/d/1yXNFMx6G9w3rgD0LPKB-Dl5yZYy9LHbs/view?usp=sharing) na městě evidentně nikoho nezajímaly.** 
 
 *Možná když bude odpovědí stovka, bude již někdo naslouchat hlasu lidu - zapojte se prosím.*
 
