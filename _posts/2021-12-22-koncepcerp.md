@@ -34,8 +34,7 @@ Ano, máme v Kadani sice velkou většinu osob sociálně znevýhodněných, ale
 
 Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posilování mezigeneračních vztahů, což ale bohužel kadaňská koncepce jaksi opomíjí.
 
-**Souhrn námětů okolo bydlení, bezpečnosti a podnikání jasně zavání špatně zvoleným plagiátorstvím,** přičemž absolutně **vynechává zásadní oblasti jako je školství, 
-slaďování rodiny a práce, veřejné služby.**
+**Souhrn námětů okolo bydlení, bezpečnosti a podnikání jasně zavání špatně zvoleným plagiátorstvím,** přičemž absolutně **vynechává zásadní oblasti jako je školství, slaďování rodiny a práce, veřejné služby.**
 
 *Nemluvě o tom, že existují i rodiny se specifickými potřebami (neúplné, se zdravotním postižením, vícečetné apod.) – bohužel opět ani zmínka.*
 
@@ -69,7 +68,7 @@ Firma přátelská rodině, Obec přátelská rodině apod.*
 
 **Jak má vypadat taková správná koncepce** je dostupné i veřejně – viz níže, jen kdyby se zdejší autoři obtěžovali vůbec někde dovzdělat, spolupracovat a především pak sdílet a komunikovat s místními rodinami.
 
-**RADKA z.s. původní polotovar doplnila, převedla do [onlinu](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel to na městě evidentně nikoho nezajímalo.** 
+**RADKA z.s. původní polotovar doplnila, převedla do [onlinu](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel [výsledky](https://drive.google.com/file/d/1yXNFMx6G9w3rgD0LPKB-Dl5yZYy9LHbs/view?usp=sharing) na městě evidentně nikoho nezajímaly.** 
 
 *Možná když bude odpovědí stovka, bude již někdo naslouchat hlasu lidu - zapojte se prosím.*
 
