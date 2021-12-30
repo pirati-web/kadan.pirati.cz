@@ -71,9 +71,10 @@ Firma přátelská rodině, Obec přátelská rodině apod.*
 
 **RADKA z.s. původní polotovar doplnila, převedla do [onlinu](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel to na městě evidentně nikoho nezajímalo.** 
 
-*Možná když bude odpovědí stovka, bude již někdo naslouchat halsu lidu - zapojte se prosím.*
+*Možná když bude odpovědí stovka, bude již někdo naslouchat hlasu lidu - zapojte se prosím.*
 
-[Koncepce rodinné politiky MPSV](https://www.mpsv.cz/documents/20142/225508/Koncepce_rodinne_politiky.pdf/5d1efd93-3932-e2df-2da3-da30d5fa8253), vzorového [jihomoravského kraje] (https://www.rodinnapolitika.cz/koncepce-rodinne-politiky-na-urovni-obci), dalších obyčejných měst jako [Hodonín](https://www.rodinnapolitika.cz/webfiles/soubory/koncepce_rp_hodonin.pdf), [Mariánské Lázně](https://www.muml.cz/e_download.php?file=data/editor/860cs_1.pdf&original=Koncepce%20rodinn%C3%A9%20politiky%20m%C4%9Bsta%20Mari%C3%A1nsk%C3%A9%20L%C3%A1zn%C4%9B.pdf), [Ostrava](https://socialnizaclenovani.ostrava.cz/wp-content/uploads/2018/05/Koncepce-rodinn%C3%A9-politiky-SMO_k-p%C5%99ipom%C3%ADnk%C3%A1m_28_5_2018.pdf), [Frenštát pod Radhošťěm](https://mufrenstat.cz/assets/File.ashx?id_org=3471&id_dokumenty=215264) ...
+[Koncepce rodinné politiky MPSV](https://www.mpsv.cz/documents/20142/225508/Koncepce_rodinne_politiky.pdf/5d1efd93-3932-e2df-2da3-da30d5fa8253), vzorového [jihomoravského kraje](https://www.rodinnapolitika.cz/koncepce-rodinne-politiky-na-urovni-obci), 
+dalších obyčejných měst jako [Hodonín](https://www.rodinnapolitika.cz/webfiles/soubory/koncepce_rp_hodonin.pdf), [Mariánské Lázně](https://www.muml.cz/e_download.php?file=data/editor/860cs_1.pdf&original=Koncepce%20rodinn%C3%A9%20politiky%20m%C4%9Bsta%20Mari%C3%A1nsk%C3%A9%20L%C3%A1zn%C4%9B.pdf), [Ostrava](https://socialnizaclenovani.ostrava.cz/wp-content/uploads/2018/05/Koncepce-rodinn%C3%A9-politiky-SMO_k-p%C5%99ipom%C3%ADnk%C3%A1m_28_5_2018.pdf), [Frenštát pod Radhošťěm](https://mufrenstat.cz/assets/File.ashx?id_org=3471&id_dokumenty=215264) ...
 
 [Ukázkový web pro rodiny města Děčín](https://rodina.mmdecin.cz/kompletni-katalog/14-volny-cas-a-sluzby)
 
