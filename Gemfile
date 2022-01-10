@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #                                                                                                                                             
 # This will help ensure the proper Jekyll version is running.                                                                                 
 # Happy Jekylling!                                                                                                                            
-gem "jekyll", "~> 3.8.5"                                                                                                                      
+gem "jekyll", "~> 3.7.3"                                                                                                                      
                                                                                                                                               
                                                                                                                                               
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.              
@@ -47,8 +47,6 @@ gem "image_optim_pack"
 gem "wdm", "~> 0.1.1" if Gem.win_platform?                                                                                                    
 # For collate sorting
 gem "twitter_cldr"
-# For kramdown
-gem "kramdown-parser-gfm"
 
 group :development, :test do                                                                                                                  
   gem "html-proofer"                                                                                                                          
