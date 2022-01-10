@@ -47,6 +47,8 @@ gem "image_optim_pack"
 gem "wdm", "~> 0.1.1" if Gem.win_platform?                                                                                                    
 # For collate sorting
 gem "twitter_cldr"
+# For kramdown
+gem "kramdown-parser-gfm"
 
 group :development, :test do                                                                                                                  
   gem "html-proofer"                                                                                                                          
