@@ -40,12 +40,14 @@ gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'                                                                                                                    
 gem "mini_magick"                                                                                                                             
 gem "autoprefixer-rails"                                                                                                                      
-gem "image_optim"                                                                                                                             
+gem "image_optim"
 gem "image_optim_bin" # Optional                                                                                                              
 gem "image_optim_pack"                                                                                                                        
 # Make sure watch mode works A-OK on Windows too                                                                                              
 gem "wdm", "~> 0.1.1" if Gem.win_platform?                                                                                                    
-                                                                                                                                              
+# For collate sorting
+gem "twitter_cldr"
+
 group :development, :test do                                                                                                                  
   gem "html-proofer"                                                                                                                          
 end 
