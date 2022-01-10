@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 3.7.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-pirati", "~> 8.4"
@@ -24,7 +24,7 @@ group :jekyll_plugins do
 end
 
 # For jekyll-assets plugins
-gem 'sprockets', "~> 3.7"
+gem 'sprockets', "4.0.0.beta8"
 gem "mini_magick"
 gem "image_optim"
 # For collate sorting
