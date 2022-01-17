@@ -23,7 +23,7 @@ tags:
 # Tvorba "koncepce" rodinné politiky města je jistě chvályhodná snaha, problém ale vzniká, pokud jí tvoří jen pro formu (nebo odměnu) někdo, kdo s rodinami velké zkušenosti nemá.
 
 *Naše společnost se bohužel nachází v nepříznivém demografickém procesu, navíc spojeném s individualizací a materialismem nebo naopak chudobou. 
-Proto by se mělo na všech úrovních dbát na strategii rodinné politiky a podporovat rodiny a jejich potřeby, kvalitní život jak v celé zemi, tak v kraji i v obci.*
+Proto by se mělo na všech úrovních dbát na strategii rodinné politiky a podporovat rodiny a jejich potřeby, kvalitní život jak v celé zemi, tak v kraji i v obci (MPSV).*
 
 Stále je “rodina - základní jednotka státu“, i když je každá jiná a má svá specifika, ale protože většina lidí do nějaké rodiny patří, **je zapojení velkého množství osob 
 do procesu zkvalitňování jejich života více než žádoucí.**
