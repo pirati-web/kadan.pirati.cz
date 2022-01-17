@@ -39,20 +39,16 @@ Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posi
 *Nemluvě o tom, že existují i rodiny se specifickými potřebami (neúplné, se zdravotním postižením, vícečetné apod.) – bohužel opět ani zmínka.*
 
 Samozřejmě do koncepce pak patří **vše okolo rodiny již od narození dítěte, přes mládež až po stáří:** 
-- Vlajkovou lodí většiny měst je již vítání občánků (které v místním zastaralém podání má také co inovovat). 
+- Vlajkovou lodí většiny měst je již **vítání občánků** (které v místním zastaralém podání má také co inovovat). 
 
-- Možnosti péče o děti mladší dvou let v jeslích je zde záměrně? vypuštěna, přestože tu existují již cca 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se tím naopak chlubí. 
+- Možnost péče o děti mladší dvou let v **jeslích je zde záměrně vypuštěna?,** přestože tu existují již 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se touto službou naopak chlubí). 
+*Ne každá rodina si může dovolit žít z jednoho příjmu nebo i vzhledem k profesi si maminky potřebují udržovat kvalifikaci a mohou v dnešní době využívat flexibilní malé úvazky, tedy neodkládají děti na celé dny, jak si snad někdo mylně představuje). 
 
-*Ne každá rodina si může dovolit žít z jednoho příjmu nebo i vzhledem k profesi si maminky potřebují udržovat kvalifikaci a mohou v dnešní době využívat flexibilní malé úvazky, tedy neodkládají děti na celé dny, jak si snad někdo mylně představuje?
-dle svého zájmu. O výsledku budeme informovat.*
+- Dále je obvyklou součástí i **komunitní život, dobrovolnictví aktivní stárnutí** a široká osvěta.
 
-- Dále je obvyklou součástí i komunitní život, dobrovolnictví aktivní stárnutí a široká osvěta.
+Komunikační informovanost se město snažilo definovat, ale opět jaksi vypustilo vše, co přímo neřídí, a tedy **značně omezilo povědomí rodin o tom, co vše se jim zde nabízí.**
 
-Komunikační informovanost se město snažilo definovat, ale opět jaksi vypustilo vše, co přímo neřídí, a tedy **značně omezilo povědomí rodin o tom, co vše se jim zde 
-nabízí.**
-
-Když pomineme drobné doplňky jako jsou rodinné pasy, komerční služby pro rodiny a propagaci (i osvětu) přírodních, kulturních a sportovních možností v okolí, tak tu 
-ale především **chybí větší přehled o zajištění např. zdravotní péče** a pak (opět záměrně?) **prorodinné aktivity obecně.** 
+Když pomineme drobné doplňky jako jsou rodinné pasy, komerční služby pro rodiny a propagaci (i osvětu) přírodních, kulturních a sportovních možností v okolí, tak tu ale především **chybí větší přehled o zajištění např. zdravotní péče** a pak (opět záměrně?) **prorodinné aktivity obecně.** 
 
 Ty tu již 18 let zajišťuje v širokém spektru a osvědčené kvalitě **spolek RADKA z.s.** jako téměř jediný a přestože se chtěl na vzniku této „koncepce“ podílet, **byl odmítnut.**
 
@@ -63,8 +59,7 @@ znevýhodněných či zajištění dětí s hendikepy).*
 
 **Opravdu se koncepce rodinné politiky bude zpracovávat pod taktovkou jedné strany a dle názorů dvou mužů?**
 
-*Spolek RADKA je součástí střešní organizace Sítě pro rodinu a jeho pracovnice se podíleli na připomínkování RP MPSV i Ústeckého kraje. Mají zkušenosti s projektem 
-Firma přátelská rodině, Obec přátelská rodině apod.*
+*Spolek RADKA je součástí střešní organizace Sítě pro rodinu a jeho pracovnice se podíleli na připomínkování RP MPSV i Ústeckého kraje. Mají zkušenosti s projektem Firma přátelská rodině, Obec přátelská rodině apod.*
 
 **Jak má vypadat taková správná koncepce** je dostupné i veřejně – viz níže, jen kdyby se zdejší autoři obtěžovali vůbec někde dovzdělat, spolupracovat a především pak sdílet a komunikovat s místními rodinami.
 
