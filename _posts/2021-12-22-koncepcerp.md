@@ -38,7 +38,7 @@ Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posi
 
 *Nemluvě o tom, že existují i rodiny se specifickými potřebami (neúplné, se zdravotním postižením, vícečetné apod.) – bohužel opět ani zmínka.*
 
-Samozřejmě sem pak patří **vše již od narození dítěte, přes mládež až po stáří:** 
+Samozřejmě do koncepce pak patří **vše okolo rodiny již od narození dítěte, přes mládež až po stáří:** 
 - Vlajkovou lodí většiny měst je již vítání občánků (které v místním zastaralém podání má také co inovovat). 
 
 - Možnosti péče o děti mladší dvou let v jeslích je zde záměrně? vypuštěna, přestože tu existují již cca 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se tím naopak chlubí. 
