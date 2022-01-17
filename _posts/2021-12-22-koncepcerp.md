@@ -34,7 +34,7 @@ Ano, máme v Kadani sice velkou většinu osob sociálně znevýhodněných, ale
 
 Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posilování mezigeneračních vztahů, což ale bohužel kadaňská koncepce jaksi opomíjí.
 
-**Souhrn námětů okolo bydlení, bezpečnosti a podnikání jasně zavání špatně zvoleným plagiátorstvím,** přičemž absolutně **vynechává zásadní oblasti jako je školství, slaďování rodiny a práce, veřejné služby.**
+**Souhrn námětů okolo bydlení, bezpečnosti a podnikání jasně zavání špatně zvoleným kopírováním,** přičemž absolutně **vynechává zásadní oblasti jako je školství, slaďování rodiny a práce, veřejné služby.**
 
 *Nemluvě o tom, že existují i rodiny se specifickými potřebami (neúplné, se zdravotním postižením, vícečetné apod.) – bohužel opět ani zmínka.*
 
