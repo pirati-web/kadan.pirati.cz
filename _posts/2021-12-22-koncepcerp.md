@@ -46,7 +46,7 @@ Samozřejmě **do koncepce pak patří vše okolo rodiny již od narození dít�
 
 - Dále je obvyklou součástí i **komunitní život, dobrovolnictví aktivní stárnutí** a široká osvěta.
 
-Komunikační informovanost se město snažilo definovat, ale opět jaksi vypustilo vše, co přímo neřídí, a tedy **značně omezilo povědomí rodin o tom, co vše se jim zde nabízí.**
+Komunikační informovanost se město v materiálu snažilo definovat, ale opět jaksi vypustilo informacem o všech službách, které neposkytuje samo, a tedy **značně omezilo povědomí rodin o tom, co vše se jim v Kadani nabízí.**
 
 Když pomineme drobné doplňky jako jsou rodinné pasy, komerční služby pro rodiny a propagaci (i osvětu) přírodních, kulturních a sportovních možností v okolí, tak tu ale především **chybí větší přehled o zajištění např. zdravotní péče** a pak (opět záměrně?) **prorodinné aktivity obecně.** 
 
@@ -63,7 +63,7 @@ znevýhodněných či zajištění dětí s hendikepy).*
 
 **Jak má vypadat taková správná koncepce** je dostupné i veřejně – viz níže, jen kdyby se zdejší autoři obtěžovali vůbec někde dovzdělat, spolupracovat a především pak sdílet a komunikovat s místními rodinami.
 
-**RADKA z.s. původní polotovar doplnila, převedla do [ONLINU](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel [výsledky](https://drive.google.com/file/d/1yXNFMx6G9w3rgD0LPKB-Dl5yZYy9LHbs/view?usp=sharing) na městě evidentně nikoho nezajímaly.** 
+**RADKA z.s. původní polotovar materiálu doplnila, převedla do [ONLINU](https://www.facebook.com/groups/759898087391253/permalink/4439203002794058/) a poskytla veřejnosti k vyjádření - bohužel [výsledky](https://drive.google.com/file/d/1yXNFMx6G9w3rgD0LPKB-Dl5yZYy9LHbs/view?usp=sharing) na městě evidentně nikoho nezajímaly.** 
 
 *Možná když bude odpovědí stovka, bude již někdo naslouchat hlasu lidu - zapojte se prosím.*
 
