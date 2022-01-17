@@ -30,7 +30,7 @@ do procesu zkvalitňování jejich života více než žádoucí.**
 
 **Naši místostarostové ale pojali jiný názor,** a to, že tento materiál vytvoří na základě kopie cílů a opatření sociálního začleňování a plánu prevence kriminality.
 
-Ano, máme v Kadani sice velkou většinu osob sociálně znevýhodněných, ale **kde zůstala zapomenuta „zdravá rodina“? Ta nemá nárok na péči a podporu zdravého rozvoje?** 
+Ano, máme v Kadani sice velkou většinu osob sociálně znevýhodněných, ale **kde zůstala zapomenuta „zdravá rodina“ -ta nemá nárok na péči a podporu zdravého rozvoje?** 
 
 Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posilování mezigeneračních vztahů, což ale bohužel kadaňská koncepce jaksi opomíjí.
 
@@ -38,11 +38,11 @@ Naopak všechny základní listiny práv a svobod mluví o blahu dítěte a posi
 
 *Nemluvě o tom, že existují i rodiny se specifickými potřebami (neúplné, se zdravotním postižením, vícečetné apod.) – bohužel opět ani zmínka.*
 
-Samozřejmě do koncepce pak patří **vše okolo rodiny již od narození dítěte, přes mládež až po stáří:** 
+Samozřejmě **do koncepce pak patří vše okolo rodiny již od narození dítěte, přes mládež až po stáří:** 
 - Vlajkovou lodí většiny měst je již **vítání občánků** (které v místním zastaralém podání má také co inovovat). 
 
-- Možnost péče o děti mladší dvou let v **jeslích je zde záměrně vypuštěna?,** přestože tu existují již 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se touto službou naopak chlubí). 
-*Ne každá rodina si může dovolit žít z jednoho příjmu nebo i vzhledem k profesi si maminky potřebují udržovat kvalifikaci a mohou v dnešní době využívat flexibilní malé úvazky, tedy neodkládají děti na celé dny, jak si snad někdo mylně představuje). 
+- **Možnost péče o děti** mladší dvou let **v jeslích** je zde záměrně vypuštěna?, přestože tu existují již 5 let a jsou neustále plné, (tak jako i v sousedních městech, která se touto službou naopak chlubí). 
+*Ne každá rodina si může dovolit žít z jednoho příjmu nebo i vzhledem k profesi si maminky potřebují udržovat kvalifikaci a mohou v dnešní době využívat flexibilní malé úvazky, tedy neodkládají děti na celé dny, jak si snad někdo mylně představuje).* 
 
 - Dále je obvyklou součástí i **komunitní život, dobrovolnictví aktivní stárnutí** a široká osvěta.
 
