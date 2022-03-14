@@ -17,7 +17,7 @@ tags:
  
 ---
 
-# Město Kadaň 
+# Město Kadaň platilo skládkařské firmě za to, aby navezla na skládku více odpadů.
 
 Absurdnost dnešního světa má mnoho podob. U nás v Kadani se vedení města v náročné době covidové a ještě náročnější krize energetické, kdy vinou krachu dodavatele energií bylo město nuceno využít dodavatele poslední instance za cenu několikanásobně vyšších nákladů za energie, rozhodlo darovat milióny korun z veřejného rozpočtu skládce, kterou máme za městem. 
 I přesto, že tato je součástí nadnárodního vlastníka vydělávajícího každoročně v ČR stamiliony na špinavém skládkařském byznysu. Na podezřelou smlouvu upozorňujeme již několik let, ale město stále odmítá sdělit účel vyplacení miliónů. Podnět k prošetření byl zaslán již několika veřejným institucím, které se tím zabývají. 
