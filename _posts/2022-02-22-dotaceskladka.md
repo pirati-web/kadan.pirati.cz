@@ -19,7 +19,7 @@ tags:
 
 # Město Kadaň 
 
-[Pirátské listy](https://www.piratskelisty.cz/clanek-4143-pirati-kadan-mesto-dotuje-miliony-spinavy-byznys-skladkaru?fbclid=IwAR2KOyrY17kHGRLJZEro0w0Kc5mShPHgkW34KliNQk_YRHGBhXy0nlx1YnM)
+[Pirátské listy](https://www.piratskelisty.cz/clanek-4143-pirati-kadan-mesto-dotuje-miliony-spinavy-byznys-skladkaru?fbclid=IwAR2KOyrY17kHGRLJZEro0w0Kc5mShPHgkW34KliNQk_YRHGBhXy0nlx1YnM) a [Ekonems](https://www.ekonews.cz/mesto-platilo-skladkarske-firme-za-to-aby-navezla-vice-odpadu-na-skladku-2/?fbclid=IwAR07RGwMLnTH_9Yh4iei9WhXMB1KMbLv7afin3fB9Hkvfgg2OqIlJyPuc6s)
 
 
 
