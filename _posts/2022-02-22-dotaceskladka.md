@@ -5,7 +5,7 @@ title: Absurdní dotace skládky Tušimice
 date: 2022-02-22
 author: Jana Hladová
 authorId: jana.hladova
-image: posts/.jpg
+image: posts/skladka.jpeg
 tags:
   - Byznys skládkařů
   - Město Kadaň
