@@ -20,10 +20,13 @@ tags:
 # Město Kadaň platilo skládkařské firmě za to, aby navezla na skládku více odpadů.
 
 Absurdnost dnešního světa má mnoho podob. U nás v Kadani se vedení města v náročné době covidové a ještě náročnější krize energetické, kdy vinou krachu dodavatele energií bylo město nuceno využít dodavatele poslední instance za cenu několikanásobně vyšších nákladů za energie, rozhodlo darovat milióny korun z veřejného rozpočtu skládce, kterou máme za městem. 
+
 I přesto, že tato je součástí nadnárodního vlastníka vydělávajícího každoročně v ČR stamiliony na špinavém skládkařském byznysu. Na podezřelou smlouvu upozorňujeme již několik let, ale město stále odmítá sdělit účel vyplacení miliónů. Podnět k prošetření byl zaslán již několika veřejným institucím, které se tím zabývají. 
+
 Současně již smlouva též nezůstala bez povšimnutí u organizací věnujících se transparentnosti nakládání s veřejnými prostředky. Zároveň se kauza této podivuhodné dotace dostala i do hledáčku žurnalistů zabývajících se nekalými praktikami skládkařských firem po celé republice. 
 Dospěli ke stejnému závěru jako my, že okolnosti poskytnutí dotace jsou čím dál podezřelejší a nejasnější. 
-Zodpovědní se buď nevyjadřují a nebo fabulují pokaždé jinými informacemi. Nejsou schopni uspokojivě vysvětlit na co město vydalo 5 miliónů z kapes občanů města. 
+Zodpovědní se buď nevyjadřují a nebo fabulují pokaždé jinými informacemi. Nejsou schopni uspokojivě vysvětlit **na co město vydalo 5 miliónů z kapes občanů města.** 
+
 Celou záležitost prošetřuje též krajský úřad z pohledu porušení zákona o rozpočtových pravidlech měst a obcí. Pokud zodpovědný zástupce města nebude schopen vysvětlit  účel poskytnutí dotace a doložit provedení kontroly jejího poskytnutí, vyvodíme z toho patřičné důsledky.
 
 
