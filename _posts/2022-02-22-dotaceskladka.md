@@ -31,7 +31,7 @@ Celou záležitost prošetřuje též krajský úřad z pohledu porušení záko
 
 
 Odkazy v tisku:
-[Pirátské listy](https://www.piratskelisty.cz/clanek-4143-pirati-kadan-mesto-dotuje-miliony-spinavy-byznys-skladkaru?fbclid=IwAR2KOyrY17kHGRLJZEro0w0Kc5mShPHgkW34KliNQk_YRHGBhXy0nlx1YnM) a [Ekonews](https://www.ekonews.cz/mesto-platilo-skladkarske-firme-za-to-aby-navezla-vice-odpadu-na-skladku-2/?fbclid=IwAR07RGwMLnTH_9Yh4iei9WhXMB1KMbLv7afin3fB9Hkvfgg2OqIlJyPuc6s)
+[Pirátské listy](https://www.piratskelisty.cz/clanek-4143-pirati-kadan-mesto-dotuje-miliony-spinavy-byznys-skladkaru?fbclid=IwAR2KOyrY17kHGRLJZEro0w0Kc5mShPHgkW34KliNQk_YRHGBhXy0nlx1YnM),  [Ekonews](https://www.ekonews.cz/mesto-platilo-skladkarske-firme-za-to-aby-navezla-vice-odpadu-na-skladku-2/?fbclid=IwAR07RGwMLnTH_9Yh4iei9WhXMB1KMbLv7afin3fB9Hkvfgg2OqIlJyPuc6s), [Zajímej se](https://zajimej.se/skladka-kadan/?fbclid=IwAR33E9KKv5eKsjL81EtQsCiTkpQcBn8F5MQnjyUfcwdX0IDFZtyx2bSiy48)
 
 
 
