@@ -20,7 +20,7 @@ tags:
  
 ---
 
-# Nemocnice není podle banky schopna dostát svým závazkům z prvního úvěru a rada města jí již schvaluje další. Riziko zadlužení města stoupá a dozorčí rada mlčí.
+# Nemocnice není podle banky schopna dostát svým závazkům z prvního úvěru a rada města jí již schvaluje přípravy na další. Riziko zadlužení města stoupá a dozorčí rada mlčí.
 
 Před půl rokem si nemocnice vzala **úvěr 270 milionů Kč na rekonstrukci operačních sálů**. Úvěr se má splácet **18 let v průměrné výši cca 17 milionů Kč ročně**. 
 Z toho za první 4 roky převzalo ručení město.
