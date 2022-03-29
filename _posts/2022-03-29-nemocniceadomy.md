@@ -37,10 +37,11 @@ Nemáme nic proti rozvoji přilehlé obce, ale celá akce opět vzbuzuje [mnoho 
 **Podle nás MÁ NEMOCNICE LÉČIT A MĚSTO STAVĚT DOMY A STARAT SE O DOSTUPNOST BYDLENÍ PRO VŠECHNY.**
 
 Jak jsme předeslali již na začátku, rádi bychom naší nemocnici zachovali a je jasné že 40cetiletá budova potřebuje investice do obnovy. 
-Ale proč se plánují takto megalomanské projekty, které nikdo nereviduje, dozorčí rada mlčí nebo není zřizovatelem dostatečně informovaná (což dokládají i námi [dříve popsané kauzy](https://kadan.pirati.cz/aktuality/pravda.html)? 
 
-Nemocnice vloni zrekonstruovala oddělení šestinedělí za (jen) 40 milionů Kč. Když pomineme fakt, že ani smlouva nebyla správně zaregistrována a byla tedy půl roku neplatná, je tristní, že v akci nebyly respektovány funkční požadavky zde pracujícího personálu. 
-„Slavnostní“ otevření proběhlo s desítkami nedodělků, z nichž valná část dodnes není odstraněna.  
+Ale **proč se plánují takto megalomanské projekty**, které nikdo nereviduje, dozorčí rada mlčí nebo není zřizovatelem dostatečně informovaná (což dokládají i námi [dříve popsané kauzy](https://kadan.pirati.cz/aktuality/pravda.html)? 
+
+*Nemocnice vloni zrekonstruovala oddělení šestinedělí za (jen) 40 milionů Kč. Když pomineme fakt, že ani smlouva nebyla správně zaregistrována a byla tedy půl roku neplatná, je tristní, že v akci nebyly respektovány funkční požadavky zde pracujícího personálu. 
+„Slavnostní“ otevření proběhlo s desítkami nedodělků, z nichž valná část dodnes není odstraněna.*  
 
 Představa, že se takto bude postupovat v plánovaných megaakcích je děsivá. 
 
@@ -48,9 +49,9 @@ Kromě toho došlo v tomto krátkém mezičase chybou vedení nemocnice i ke zru
 
 Jak tomu lze věřit posuďte sami.
 
-Na zastupitelstvu tento týden **rada doporučuje bezplatný převod pozemků na nemocnici,  v hodnotě skoro 3 miliony Kč** a tím navyšovat její základní mění. 
+Na zastupitelstvu tento týden **rada doporučuje bezplatný převod pozemků na nemocnici, v hodnotě skoro 3 miliony Kč** a tím navýšení jejího základního mění. 
 
-Přestože **i městský právník zhodnotil tento způsob převodu jako nejméně výhodný pro město**, a jak vidíme riziko **riziko zadlužení města roste, ale "kavalérie jede dál".**
+Přestože **i městský právník zhodnotil tento způsob převodu jako nejméně výhodný pro město**, a jak vidíme riziko **riziko zadlužení města roste, "kavalérie jede dál".**
 
 
 
