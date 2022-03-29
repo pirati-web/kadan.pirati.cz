@@ -5,7 +5,7 @@ title: Nemocnice nebo stavební firma?
 date: 2022-03-29
 author: Místní sdružení
 authorId: mistni.sdruzeni 
-image: posts/nemocnice a domy.jpg
+image: posts/nemocniceadomy.jpg
 tags:
   - Nemocnice
   - Rada města
