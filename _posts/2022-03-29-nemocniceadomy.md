@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: Mluví radní pravdu?
+title: Nemocnice nebo stavební firma? 
 date: 2022-03-29
 author: Místní sdružení
 authorId: mistni.sdruzeni 
