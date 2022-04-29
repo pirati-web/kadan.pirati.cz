@@ -31,9 +31,7 @@ Souvisejícím zajímavým faktem je skutečnost zřejmá z veřejně dostupnýc
 **Ten samý pozemek** byl následně prodán **v roce 2019 za 371,8 Kč/m2** a **dle současného posudku** by měl **opět** hodnotu **jen 161Kč/m2.**
 Podobný efekt horské dráhy, který zmiňujeme u výše převáděných pozemků. Pro účely dražby cena 440,-/m2 a ten samý pozemek pro účel převodu na nemocnici a stavbu rodinných domů pro lékaře pouze 161,- Kč/m2. 
 Vypadá to buď na **realitní krizi biblických rozměrů, nebo** na **amatérismus vedení města,** které nemá aparát ani systémové nastavení k tomu, aby mohlo obezřetně, po náležitém průzkumu trhu a transparentně nakládat se svým nemovitým majetkem. 
-Nebo-li 
-
-nakupuje draho šunt, prodává levně kvalitní pozemky.**
+Nebo-li nakupuje draho šunt, prodává levně kvalitní pozemky.**
 
 Zajímavý je též **nákup pozemku panem radním Haklem,** který rozhodnutím zastupitelů z ODS přikoupil pozemek v Úhošťanech o výměře **227 m2 za 39 250,- Kč.** Jednotková cena za m2 je tedy 173 kč/m2. 
 Cena byla stanovena na základě znaleckého posudku, který nezohlednil průzkum trhu a opírá se o z klobouku vytažené tři převody, které jsou časově a funkčně naprosto nesrovnatelné s pozemkem pro zahradu rodinného domu pana radního. To vede k chaotickému a odborně nezdůvodnitelnému „koeficientování“, aby to vyšlo …pro p. Hakla o dost níž.  
