@@ -14,7 +14,7 @@ tags:
   - Piráti
 ---
 
-# 242 porcí a 68 balíčků pro děti do azylových domů 
+# 242 porcí a 68 balíčků pro azylové domy 
 
 Již tradičně se naši členové a příznivci složili na podporu potřebných a tentokráte jsme v dalších 
 částech ústeckého kraje rozdali sladkou i vypečenou ale hlavně s láskou dělanou nadílku.
